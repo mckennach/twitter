@@ -5,16 +5,16 @@ const Privacy = () => {
                 Community Support Developer Portal Type your search here
                 Developer terms Developer Policy Let's get started Twitter +
                 Developers Using this policy Twitter + Developers Twitter loves
-                developers. We’re delighted and amazed by the tools and services
+                developers. We're delighted and amazed by the tools and services
                 this community creates by harnessing the power of Twitter data.
                 As part of our commitment to this community, we aim to provide
                 data access that is open and fair for developers, safe for
                 people on Twitter, and beneficial for the Twitter platform as a
-                whole. To further these goals we’ve crafted the Developer Policy
+                whole. To further these goals we've crafted the Developer Policy
                 as a guide to help people understand our rules and expectations
                 about appropriate API and Twitter Content usage. This Developer
                 Policy (“Policy”) provides rules and guidelines for developers
-                who interact with Twitter’s ecosystem of applications, services,
+                who interact with Twitter's ecosystem of applications, services,
                 website, web pages and content. It is part of your contract with
                 Twitter governing access to and use of the Twitter API and
                 Twitter Content (either as part of the Developer Agreement or
@@ -24,11 +24,11 @@ const Privacy = () => {
                 in this Policy, which are not defined in this Policy, will have
                 the respective meanings ascribed to them in the Developer
                 Agreement or the Master License Agreement. Using this policy
-                We’ve structured this policy to make it as easy to follow as
+                We've structured this policy to make it as easy to follow as
                 possible. Please keep information from the following policy
                 sections top of mind as you use the Twitter API and Twitter
                 Content: Set Yourself Up for Success - You are responsible for
-                complying with all Twitter policies. It’s important that you
+                complying with all Twitter policies. It's important that you
                 review and understand this Policy, as well as the policies we
                 link to in this document, before you access the Twitter API and
                 Twitter Content. The time spent reviewing our policies may save
@@ -36,16 +36,16 @@ const Privacy = () => {
                 Essential - Protecting and defending the privacy of people on
                 Twitter is built into the core DNA of our company. As such, we
                 prohibit the use of Twitter data in any way that would be
-                inconsistent with people’s reasonable expectations of privacy.
+                inconsistent with people's reasonable expectations of privacy.
                 By building on the Twitter API or accessing Twitter Content, you
                 have a special role to play in safeguarding this commitment,
-                most importantly by respecting people’s privacy and providing
+                most importantly by respecting people's privacy and providing
                 them with transparency and control over how their data is used.
                 Follow the Platform Usage Guidelines - Getting approved to
                 access the Twitter API and Twitter Content is just the first
                 step. Our Platform Usage Guidelines should be your first stop
                 anytime you have questions about how to ensure policy compliance
-                for your planned use of the Twitter platform. We’ve provided a
+                for your planned use of the Twitter platform. We've provided a
                 lot more detail on what each of these three key sections mean
                 below. Please review them carefully to ensure that your usage of
                 the Twitter API and Twitter Content is consistent with our
@@ -66,13 +66,13 @@ const Privacy = () => {
                 the Developer Policy contains rules that all developers must
                 follow before using the Twitter API or Twitter Content. We
                 review all proposed uses of the Twitter developer platform to
-                verify policy compliance — so you’re required to disclose (and
+                verify policy compliance — so you're required to disclose (and
                 update, as applicable) your planned use of the Twitter API and
                 Twitter Content in order to be granted and to maintain access.
                 All new developers must apply for a developer account to access
                 the Twitter API. Current developers without an approved
                 developer account must apply for one as directed to do so by
-                Twitter. As part of this process, you’ll need to provide us with
+                Twitter. As part of this process, you'll need to provide us with
                 a written description of your intended uses of the Twitter API
                 and Twitter Content. Your use case description is binding on
                 you, and any substantive deviation from it may constitute a
@@ -136,7 +136,7 @@ const Privacy = () => {
                 privacy seriously, and we expect everyone using Twitter Content
                 and the Twitter API to do the same. Any use of the Twitter
                 developer platform, Twitter API, or Twitter Content in a manner
-                that is inconsistent with peoples’ reasonable expectations of
+                that is inconsistent with peoples' reasonable expectations of
                 privacy may be subject to enforcement action, which can include
                 suspension and termination of API and Twitter Content access.
                 Your commitment to privacy and control must extend to all uses
@@ -157,7 +157,7 @@ const Privacy = () => {
                 information Starting a Periscope Broadcast Adding hashtags or
                 any other content to Tweets Republishing content accessed by
                 means other than via the Twitter API or other Twitter tools
-                Using someone’s Twitter Content to promote a product or service
+                Using someone's Twitter Content to promote a product or service
                 Storing non-public content such as Direct Messages (DMs), or any
                 other private or confidential information Sharing or publishing
                 protected content, or any other private or confidential
@@ -170,9 +170,9 @@ const Privacy = () => {
                 publishing: Obtain permission to post the content Explain where
                 you will post the content You must respect the protected and
                 blocked status of all Twitter Content. You may not serve content
-                obtained using one person’s authentication token to a different
+                obtained using one person's authentication token to a different
                 person who is not authorized to view that content. Protected
-                accounts: A protected account’s content is only available to
+                accounts: A protected account's content is only available to
                 people who have been approved by the owner to follow that
                 account. So, if you run a service that accesses protected
                 accounts, you may only do so to serve such content to the
@@ -192,7 +192,7 @@ const Privacy = () => {
                 a DM as "shared" (i.e. reusable across multiple DMs). If you do
                 allow media in a DM to be “shared,” you must provide a clear
                 notice that this content will be accessible to anyone with the
-                media’s URL. Content compliance If you store Twitter Content
+                media's URL. Content compliance If you store Twitter Content
                 offline, you must keep it up to date with the current state of
                 that content on Twitter. Specifically, you must delete or modify
                 any content you have if it is deleted or modified on Twitter.
@@ -214,11 +214,11 @@ const Privacy = () => {
                 or other off-Twitter identifier. You may only do this if you
                 have express opt-in consent from the person before making the
                 association, or as described below. In situations in which you
-                don’t have a person’s express, opt-in consent to link their
+                don't have a person's express, opt-in consent to link their
                 Twitter identity to an off-Twitter identifier, we require that
                 any connection you draw be based only on information that
                 someone would reasonably expect to be used for that purpose. In
-                addition, absent a person’s express opt-in consent you may only
+                addition, absent a person's express opt-in consent you may only
                 attempt to match your records about someone to a Twitter
                 identity based on: Information provided directly to you by the
                 person. Note that records about individuals with whom you have
@@ -231,18 +231,18 @@ const Privacy = () => {
                 publicly available, including: Tweets Profile information,
                 including an account bio and publicly-stated location Display
                 name and @handle Your privacy policy You must display your
-                service’s privacy policy to people before they are permitted to
+                service's privacy policy to people before they are permitted to
                 download, install, or sign up to your service. It must disclose
                 at least the following information: The information that you
                 collect from people who use your service How you use and share
                 that information (including with Twitter) How people can contact
                 you with inquiries and requests regarding their information Your
                 privacy policy must be consistent with all applicable laws, and
-                be no less protective of people than Twitter’s Privacy Policy
+                be no less protective of people than Twitter's Privacy Policy
                 and the privacy policy of our other services and corporate
                 affiliates. You must cease your access to the Twitter API and
                 the use of all Twitter Content if you are unable to comply with
-                your and/or Twitter’s Privacy Policy. Using geo-data Use of geo
+                your and/or Twitter's Privacy Policy. Using geo-data Use of geo
                 data comes with additional restrictions due to the sensitive
                 nature of this information. If your service adds location
                 information to Tweets or Periscope Broadcasts, you must disclose
@@ -250,7 +250,7 @@ const Privacy = () => {
                 location information as a geotag or annotations data Whether
                 your location information is listed as a place, or as geographic
                 coordinates If your application allows people to Tweet with
-                their location you must comply with Twitter’s geo guidelines in
+                their location you must comply with Twitter's geo guidelines in
                 full. Any use of location data or geographic information on a
                 standalone basis is prohibited. You may not (and may not permit
                 others to) store, aggregate, or cache location data and other
@@ -270,11 +270,11 @@ const Privacy = () => {
                 benchmarking Public display of Tweets Content redistribution Pay
                 to Engage Service authenticy Twitter name, logo, and likeness
                 Advertising on Twitter Platform usage guidelines Have you taken
-                care to review Twitter’s policies and set up your API access the
-                right way? Does your service follow Twitter’s privacy and
+                care to review Twitter's policies and set up your API access the
+                right way? Does your service follow Twitter's privacy and
                 control guidelines? If you can answer yes to these two
                 questions, then you are ready to start using the Twitter API and
-                Twitter Content. Twitter’s Platform Usage Guidelines provide the
+                Twitter Content. Twitter's Platform Usage Guidelines provide the
                 assistance needed to ensure that your use of Twitter Content is
                 compliant from day 1 throughout the lifecycle of your service.
                 We suggest reviewing these rules on a regular basis to make sure
@@ -293,7 +293,7 @@ const Privacy = () => {
                 opt-out of being contacted by you Never perform bulk,
                 aggressive, or spammy actions, including bulk following Never
                 post identical or substantially similar content across multiple
-                accounts If you’re operating an API-based bot account you must
+                accounts If you're operating an API-based bot account you must
                 clearly indicate what the account is and who is responsible for
                 it. You should never mislead or confuse people about whether
                 your account is or is not a bot. A good way to do this is by
@@ -322,7 +322,7 @@ const Privacy = () => {
                 this purpose please submit a request via the API Policy Support
                 form. Public display of Tweets You must maintain the integrity
                 of all Twitter Content that you display publicly or to people
-                who use your service. If you don’t use Twitter for Websites to
+                who use your service. If you don't use Twitter for Websites to
                 display content, then you must use the Twitter API to retrieve
                 the most current version available for display. If displayed
                 content ceases to be available through the Twitter API, then you
@@ -341,21 +341,21 @@ const Privacy = () => {
                 restrictions on Twitter for Websites developer use include:
                 Embedded Tweets and/or embedded timelines You must provide
                 people with legally sufficient notice that fully discloses
-                Twitter’s collection and use of data about browsing activities
+                Twitter's collection and use of data about browsing activities
                 on your website, including for interest-based advertising and
                 personalization. You must also obtain legally sufficient consent
                 from people for such collection and use You must provide legally
-                sufficient instructions on how people can opt out of Twitter’s
+                sufficient instructions on how people can opt out of Twitter's
                 interest-based advertising and personalization as described here
                 Twitter for Websites widgets You must ensure that people are
                 provided with clear and comprehensive information about, and
                 consent to, the storing and accessing of cookies or other
-                information on their devices as described in Twitter’s cookie
+                information on their devices as described in Twitter's cookie
                 use, where providing such information and obtaining such consent
                 is required by law Services targeted to children under 13
                 Services targeted to children under 13 must opt out of tailoring
                 Twitter in any embedded Tweet and/or embedded timelines by
-                setting the opt-out parameter to be ‘true’ as described here
+                setting the opt-out parameter to be 'true' as described here
                 Content redistribution The best place to get Twitter Content is
                 directly from Twitter. Consequently, we restrict the
                 redistribution of Twitter Content to third parties. If you
@@ -387,7 +387,7 @@ const Privacy = () => {
                 circumvent any other limitations or restrictions on the
                 distribution of Twitter Content as contained in this Policy, the
                 Developer Agreement, or any other agreement with Twitter. Pay to
-                Engage Your service shouldn’t compensate people to take actions
+                Engage Your service shouldn't compensate people to take actions
                 on Twitter, as that results in inauthentic engagement that
                 degrades the health of the platform. As you use the Twitter API
                 you may not sell or receive monetary or virtual compensation for
@@ -395,8 +395,8 @@ const Privacy = () => {
                 limited to, Tweets, follows, unfollows, retweets, likes,
                 comments, and replies. Service authenticity You must clearly
                 identify your service so that people can understand its source
-                and purpose. Don’t use names, logos, or URLs that mask your
-                service’s identity and features, or that falsely imply an
+                and purpose. Don't use names, logos, or URLs that mask your
+                service's identity and features, or that falsely imply an
                 affiliation with Twitter or third parties. Note that creating
                 applications for the purpose of selling names, or to prevent
                 others from using names, is prohibited. You may not use any URL
@@ -417,7 +417,7 @@ const Privacy = () => {
                 displays is equivalent to that shown on Twitter. Advertising on
                 Twitter There are restrictions regarding how and where you are
                 allowed to advertise around Twitter Content. To start, your
-                advertisements can’t resemble or reasonably be confused by
+                advertisements can't resemble or reasonably be confused by
                 people as a Tweet or Periscope Broadcast. Other rules on
                 advertising include: There must be a clear separation between
                 Twitter Content and your advertisements. You may not place any
@@ -442,23 +442,23 @@ const Privacy = () => {
                 without a Twitter account the opportunity to create one via
                 Twitter. Once someone on your service authenticates via Sign in
                 with Twitter you must clearly display their Twitter identity.
-                Twitter identity includes the person’s current Twitter @handle,
-                avatar, and Twitter logo. Any display of someone’s Twitter
+                Twitter identity includes the person's current Twitter @handle,
+                avatar, and Twitter logo. Any display of someone's Twitter
                 followers on your service must clearly show that the
                 relationship is associated with Twitter. Twitter Cards To ensure
                 a quality experience you must develop your Card to render across
                 all platforms where Cards are displayed. Additional rules that
                 you must follow when using Cards include: You must mark your
-                Tweet as ‘true’ for sensitive media if you plan to display such
+                Tweet as ‘true' for sensitive media if you plan to display such
                 media within a Card You must use HTTPS for hosting all assets
                 within your Card. Your Card should never generate active mixed
                 content browser warnings Audio and video content should include
-                stop or pause controls, and default to ‘sound off’ for videos
+                stop or pause controls, and default to ‘sound off' for videos
                 that automatically play content You may not exceed or circumvent
-                Twitter’s limitations placed on any Cards, including the Card’s
+                Twitter's limitations placed on any Cards, including the Card's
                 intended use. Additional restrictions on Cards use include: You
                 may not place third-party sponsored content within Cards without
-                Twitter’s approval You may not attach monetary incentives
+                Twitter's approval You may not attach monetary incentives
                 (including virtual currency) within your Card or on Twitter from
                 your Card You may not include content or actions within your
                 Card that are misleading or not contextually relevant, such as
@@ -474,21 +474,21 @@ const Privacy = () => {
                 requests from people to log out of their Periscope account on
                 your service You may not provide tools in your service to allow
                 people to circumvent technological protection measures
-                Definitions Twitter Content ‒ Tweets, Tweet IDs, Twitter end
+                Definitions Twitter Content - Tweets, Tweet IDs, Twitter end
                 user profile information, Periscope Broadcasts, Broadcast IDs
                 and any other data and information made available to you through
                 the Twitter API or by any other means authorized by Twitter, and
-                any copies and derivative works thereof. Developer Site ‒
-                Twitter’s developer site located at
+                any copies and derivative works thereof. Developer Site -
+                Twitter's developer site located at
                 https://developer.twitter.com. Periscope Broadcast - A live or
                 on-demand video stream that is publicly displayed on Twitter
-                Applications and is generated by a user via Twitter’s Periscope
+                Applications and is generated by a user via Twitter's Periscope
                 Producer feature (as set forth at
                 https://help.periscope.tv/customer/en/portal/articles/2600293).
-                Services ‒ Your websites, applications and other offerings that
+                Services - Your websites, applications and other offerings that
                 display Twitter Content or otherwise use the Licensed Material
-                as explicitly approved by Twitter. Tweet ID ‒ A unique
-                identification number generated for each Tweet. Tweet ‒ a
+                as explicitly approved by Twitter. Tweet ID - A unique
+                identification number generated for each Tweet. Tweet - a
                 posting made on Twitter Applications. “Twitter” means Twitter,
                 Inc., with an office located at 1355 Market Street, Suite 900,
                 San Francisco, CA, 94103, USA. If you enter into this Agreement
@@ -497,16 +497,16 @@ const Privacy = () => {
                 offices at One Cumberland Place, Fenian Street, Dublin 2, D02
                 AX07, Ireland (“TIC”) is the contracting entity. Direct Message
                 - A message that is privately sent on Twitter Applications by
-                one end user to one or more specific end user(s) using Twitter’s
-                Direct Message function. Twitter API ‒ The Twitter Application
+                one end user to one or more specific end user(s) using Twitter's
+                Direct Message function. Twitter API - The Twitter Application
                 Programming Interface (“API”), Software Development Kit (“SDK”)
                 and/or the related documentation, data, code, and other
                 materials provided by Twitter with the API, as updated from time
                 to time, including without limitation through the Developer
-                Site. Twitter Applications ‒ Twitter’s consumer facing products,
+                Site. Twitter Applications - Twitter's consumer facing products,
                 services, applications, websites, web pages, platforms, and
                 other offerings, including without limitation, those offered via
-                https://twitter.com and Twitter’s mobile applications. DEVELOPER
+                https://twitter.com and Twitter's mobile applications. DEVELOPER
                 POLICY AND TERMS FOLLOW @TWITTERDEV Subscribe to developer news
                 X platform X.com Status Accessibility Embed a post Privacy
                 Center Transparency Center X Corp. About the company Company
@@ -523,4 +523,4 @@ const Privacy = () => {
     )
 }
 
-export default Privacy;
+export default Privacy
